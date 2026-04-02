@@ -80,6 +80,9 @@ gateway restart
 SKILLL DARIINANCE UNTUK TRADING
 https://developers.binance.com/en/skills
 
+SKILL UNISWAP
+https://github.com/Uniswap/uniswap-ai
+
 
 KALAU MASIH BANDEL 
 CUPANG VENTURES
