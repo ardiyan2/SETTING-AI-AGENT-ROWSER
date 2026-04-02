@@ -76,3 +76,8 @@ terus lu buka vps nya
 gateway restart
 
 
+
+SKILLL DARIINANCE UNTUK TRADING
+https://developers.binance.com/en/skills
+
+
