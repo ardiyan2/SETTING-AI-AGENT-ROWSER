@@ -81,3 +81,17 @@ SKILLL DARIINANCE UNTUK TRADING
 https://developers.binance.com/en/skills
 
 
+KALAU MASIH BANDEL 
+CUPANG VENTURES
+
+ada yang bisa mint?
+buat yang agent nya gabisa connect wallet, coba kasih perintah
+
+pelajari dan install manual browser
+pelajari dan install / integrate metamask dengan playwright
+pelajari dan install Xvfb / gunakan lokal machine
+suruh create wallet dan simpan phrase
+isi saldo di evm chain buat bridge ke chain lain
+
+
+
